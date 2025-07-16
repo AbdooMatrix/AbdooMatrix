@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Mostafa</h1>
-<h3 align="center">A Computer Science student at Cairo University's Faculty of Computers and Artificial Intelligence.</h3>
+<h3 align="center">Information Systems Student at Cairo University's Faculty of Computers and Artificial Intelligence</h3>
 
 - 📫 How to reach me **abdomostafa20188@gmail.com**
 
